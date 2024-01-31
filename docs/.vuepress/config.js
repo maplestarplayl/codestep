@@ -15,7 +15,7 @@ module.exports = {
   ],
   theme: 'default-prefers-color-scheme',
   themeConfig: {
-    repo: 'weijiew/codestep',
+    repo: 'maplestarplayl/codestep',
     repoLabel: 'Github',
     editLinks: true,
     editLinkText: '帮助我们改善此页面！',
@@ -29,13 +29,13 @@ module.exports = {
       text: '联系', items: [
         {
           text: 'GitHub', items: [
-            { text: '项目地址', link: 'https://github.com/weijiew/codestep' },
-            { text: '反馈提问', link: 'https://github.com/weijiew/codestep/issues/new/choose' }
+            { text: '项目地址', link: 'https://github.com/maplestarplayl/codestep' },
+            { text: '反馈提问', link: 'https://github.com/maplestarplayl/codestep/issues/new/choose' }
           ]
         },
         {
           text: '关于作者', items: [
-            { text: '个人主页', link: 'https://weijiew.github.io' }
+            { text: '个人主页', link: 'https://maplestarplayl.github.io' }
           ]
         }
       ]
